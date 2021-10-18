@@ -1,0 +1,38 @@
+body {
+	background-color: #E7E6E6;
+	font-family: 'Cabin', sans-serif;
+}
+
+
+.header {
+	text-align: center; 
+	padding-top: 100px; 
+}
+
+.container h2 {
+	text-align: center; 
+	padding-top: 10px;
+}
+
+.check_section {
+    display: flex;
+    flex-direction: column;
+    margin:auto;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+
+#result {
+    text-align: center;
+}
+
+
+#factor1 {
+    text-align: center;
+}
+
+
+#factor2 {
+    text-align: center;
+}
